@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
+<catalog>
+  <!-- Added 5 rows of data-->
+  <cd>
+    <title>Munbe Vaa</title>
+    <artist>AR Rahman</artist>
+    <country>India</country>
+    <company>Sony Music</company>
+    <price>10.90</price>
+    <year>2009</year>
+  </cd>
+  <cd>
+    <title>Vaathi Raid</title>
+    <artist>Anirudh</artist>
+    <country>India</country>
+    <company>T Series</company>
+    <price>15.50</price>
+    <year>2021</year>
+  </cd>
+  <cd>
+    <title>Mullipo</title>
+    <artist>AR Rahman</artist>
+    <country>India</country>
+    <company>Sony Music</company>
+    <price>20.90</price>
+    <year>2022</year>
+  </cd>
+  <cd>
+    <title>Once upon time</title>
+    <artist>Anirudh</artist>
+    <country>India</country>
+    <company>T Series</company>
+    <price>19.90</price>
+    <year>2022</year>
+  </cd>
+  <cd>
+    <title>Thani Vazhi</title>
+    <artist>Anirudh</artist>
+    <country>India</country>
+    <company>Sony South</company>
+    <price>23.52</price>
+    <year>2020</year>
+  </cd>
+</catalog>
