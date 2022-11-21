@@ -1,0 +1,52 @@
+<!DOCTYPE states>
+<?xml-stylesheet type="text/xsl" href="states.xsl"?>
+<details>
+    <state>
+        <name>Tamil Nadu</name>
+        <capital>Chennai</capital>
+        <area>13005800</area>
+        <primary_crop>rice</primary_crop>
+        <population>72147030</population>
+        <language>Tamil</language>
+    </state>
+    <state>
+        <name>Kerela</name>
+        <capital>Thiruvathapuram</capital>
+        <area>3886300</area>
+        <primary_crop>rice</primary_crop>
+        <population>34630192</population>
+        <language>Malayalam</language>
+    </state>
+    <state>
+        <name>Himachal Pradesh</name>
+        <capital>Shimla</capital>
+        <area>72580058</area>
+        <primary_crop>wheat</primary_crop>
+        <population>72147450</population>
+        <language>Hindi</language>
+    </state>
+    <state>
+        <name>Jharkhand</name>
+        <captial>Ranchi</captial>
+        <area>79416</area>
+        <primary_crop>paddy</primary_crop>
+        <population>32988134</population>
+        <language>Angika</language>
+    </state>
+    <state>
+        <name>Bihar</name>
+        <capital>Patna</capital>
+        <area>94163</area>
+        <primary_crop>wheat</primary_crop>
+        <population>104099452</population>
+        <language>Bhojpuri</language>
+    </state>
+    <state>
+        <name>Maharashtra</name>
+        <capital>Mumbai</capital>
+        <area>307713</area>
+        <primary_crop>rice</primary_crop>
+        <population>112374333</population>
+        <language>Marathi</language>
+    </state>
+</details>
